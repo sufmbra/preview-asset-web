@@ -1,0 +1,62 @@
+body{
+    width: 75%;
+    margin: auto;
+}
+.container-1{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    width: 80%;
+}
+.container-2{
+   
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 80%;
+}
+button{
+    background-color: rgb(247, 71, 128);
+    border-radius: 30px;
+    color: white;
+    padding: 10px 20px;
+}
+.kotak-1 h1,p{
+    width: 100%;
+}
+.kotak-1 {
+    margin: auto;
+    
+}
+.kotak-2 {
+    margin: auto;
+}
+a {
+    text-decoration: none;
+}
+.container-3{
+    text-align: center;
+     
+}
+a {
+    color: lightcoral;
+}
+.flex{
+    display:flex;
+    margin-top: 20px;
+    width: 50%;
+    margin: auto;
+}
+.kotak img {
+    display: block;
+    width: 50%;
+    background-color: rgb(230, 23, 23);
+   
+   
+}
+.h1, p{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    margin-top: auto;
+}
